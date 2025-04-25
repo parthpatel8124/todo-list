@@ -23,6 +23,12 @@ todo-list/
     └── icon.png      # Application icon
 ```
 
+
+## Screenshots
+
+![Todo List App](./img/sample.png)
+*Main interface of the Todo List application*
+
 ## Getting Started
 
 ### Prerequisites
